@@ -58,7 +58,6 @@
       },
       "scripts": {
           "dev": "vite",
-          "build": "vite build",
-          "build": "your-build-command"
+          "build": "vite build"
       }
   }
